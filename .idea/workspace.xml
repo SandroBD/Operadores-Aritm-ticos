@@ -4,12 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17a1af98-4c6a-41c6-bb14-b6405f9b798f" name="Changes" comment="Dez (10) exercícios com operadores aritméticos" />
+    <list default="true" id="17a1af98-4c6a-41c6-bb14-b6405f9b798f" name="Changes" comment="Dez (10) exercícios com operadores aritméticos">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -48,9 +51,7 @@
     "git-widget-placeholder": "master"
   },
   "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-      "directory"
-    ]
+    "ChangesTree.GroupingKeys": []
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -77,7 +78,23 @@
       <option name="project" value="LOCAL" />
       <updated>1727924564434</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Dez (10) exercícios com operadores aritméticos">
+      <option name="closed" value="true" />
+      <created>1727924764158</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727924764158</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Dez (10) exercícios com operadores aritméticos">
+      <option name="closed" value="true" />
+      <created>1727924788572</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727924788572</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
