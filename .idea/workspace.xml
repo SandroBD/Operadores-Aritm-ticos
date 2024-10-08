@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17a1af98-4c6a-41c6-bb14-b6405f9b798f" name="Changes" comment="Dez (10) exercícios com operadores aritméticos" />
+    <list default="true" id="17a1af98-4c6a-41c6-bb14-b6405f9b798f" name="Changes" comment="Dez (10) exercícios com operadores aritméticos">
+      <change afterPath="$PROJECT_DIR$/Desafio 14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafio 15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafio 11.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafio 11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafio 12.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafio 12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafio 13.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafio 13.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,18 +28,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "SandroBD"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SandroBD&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/SandroBD/Operadores-Aritm-ticos.git",
-    "accountId": "fb2a0ee4-666e-486d-a271-7395361e8dfd"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/SandroBD/Operadores-Aritm-ticos.git&quot;,
+    &quot;accountId&quot;: &quot;fb2a0ee4-666e-486d-a271-7395361e8dfd&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -44,26 +51,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Desafio 10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Desafio 11.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Desafio 12.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Desafio 13.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Desafio 5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Desafio 6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Desafio 7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Desafio 8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Desafio 9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Operadores aritméticos.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.2.executor": "Run",
+    "Python.Desafio 10.executor": "Run",
+    "Python.Desafio 11.executor": "Run",
+    "Python.Desafio 12.executor": "Run",
+    "Python.Desafio 13.executor": "Run",
+    "Python.Desafio 14.executor": "Run",
+    "Python.Desafio 15.executor": "Run",
+    "Python.Desafio 5.executor": "Run",
+    "Python.Desafio 6.executor": "Run",
+    "Python.Desafio 7.executor": "Run",
+    "Python.Desafio 8.executor": "Run",
+    "Python.Desafio 9.executor": "Run",
+    "Python.Operadores aritméticos.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;ChangesTree.GroupingKeys&quot;: []
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": []
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
