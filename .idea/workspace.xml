@@ -50,28 +50,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.2.executor": "Run",
-    "Python.Desafio 10.executor": "Run",
-    "Python.Desafio 11.executor": "Run",
-    "Python.Desafio 12.executor": "Run",
-    "Python.Desafio 13.executor": "Run",
-    "Python.Desafio 14.executor": "Run",
-    "Python.Desafio 15.executor": "Run",
-    "Python.Desafio 5.executor": "Run",
-    "Python.Desafio 6.executor": "Run",
-    "Python.Desafio 7.executor": "Run",
-    "Python.Desafio 8.executor": "Run",
-    "Python.Desafio 9.executor": "Run",
-    "Python.Operadores aritméticos.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Desafio 10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Desafio 11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Desafio 12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Desafio 13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Desafio 14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Desafio 15.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Desafio 5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Desafio 6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Desafio 7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Desafio 8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Desafio 9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Operadores aritméticos.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": []
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: []
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
